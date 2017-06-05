@@ -1,0 +1,22 @@
+{
+  "name": "node-trainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhbutk/nodejs-train.git"
+  },
+  "keywords": [
+    "nodemon"
+  ],
+  "author": "Anh Nguyen Quang Pyco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhbutk/nodejs-train/issues"
+  },
+  "homepage": "https://github.com/anhbutk/nodejs-train#readme"
+}
