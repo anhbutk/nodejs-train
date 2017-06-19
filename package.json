@@ -20,10 +20,12 @@
   },
   "homepage": "https://github.com/anhbutk/nodejs-train#readme",
   "dependencies": {
+    "boom": "^5.1.0",
     "hapi": "^16.4.3",
     "hapi-auth-jwt": "^4.0.0",
     "hapi-swagger": "^7.7.0",
     "inert": "^4.2.0",
+    "joi": "^10.6.0",
     "nodemon": "^1.11.0",
     "vision": "^4.1.1"
   }
