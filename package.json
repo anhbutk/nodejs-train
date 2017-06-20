@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "nodemon"
   },
   "repository": {
@@ -20,9 +21,11 @@
   },
   "homepage": "https://github.com/anhbutk/nodejs-train#readme",
   "dependencies": {
+    "blipp": "^2.3.0",
     "boom": "^5.1.0",
     "hapi": "^16.4.3",
     "hapi-auth-jwt": "^4.0.0",
+    "hapi-level": "^5.0.1",
     "hapi-swagger": "^7.7.0",
     "inert": "^4.2.0",
     "joi": "^10.6.0",
