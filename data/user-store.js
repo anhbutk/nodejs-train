@@ -1,3 +1,4 @@
+'use strict';
 const Uuid = require('uuid');
 const Boom = require('boom');
 exports.register = function (server, options, next) {
